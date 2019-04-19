@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../furlenco-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../furlenco-blog/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../furlenco-blog/src/Api-documentation.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../furlenco-blog/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../furlenco-blog/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../furlenco-blog/src/components/Addblog/Addblog.js" beforeDir="false" afterPath="$PROJECT_DIR$/../furlenco-blog/src/components/Addblog/Addblog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../furlenco-blog/src/components/Blogcard/Blogcard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../furlenco-blog/src/components/Blogcard/Blogcard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../furlenco-blog/src/components/Scroll/Scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/../furlenco-blog/src/components/Scroll/Scroll.js" afterDir="false" />
     </list>
@@ -168,7 +169,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -251,15 +252,6 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="Models" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="furlenco-blog-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furlenco-blog-api-maven" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="Services" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -276,6 +268,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -354,16 +347,15 @@
       <workItem from="1555672354946" duration="569000" />
       <workItem from="1555672946654" duration="611000" />
       <workItem from="1555673755248" duration="1503000" />
-      <workItem from="1555675355969" duration="3619000" />
+      <workItem from="1555675355969" duration="3799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8511000" />
+    <option name="totallyTimeSpent" value="8691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
